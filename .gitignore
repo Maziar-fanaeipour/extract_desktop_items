@@ -18,3 +18,8 @@ __pycache__/
 
 # Image outputs
 *.png
+env/
+.venv/
+*.pyd
+*.dll
+*.lib

@@ -22,4 +22,5 @@ env/
 .venv/
 *.pyd
 *.dll
-*.lib
+*.libenv/ 
+*.png 
